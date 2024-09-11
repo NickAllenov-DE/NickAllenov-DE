@@ -24,7 +24,7 @@ My education:
     2. Higher legal education.  
     3. Professional retraining in Data Engineering.  
     
-During my training, I mastered tools such as Python, SQL, Docker, Apache Airflow, Apache Spark and many others, and also developed several projects, including:
+During my training, I mastered tools such as Python, SQL, Docker, Apache Airflow, Apache Spark and many others, and also developed several projects, including:  
     • Data management systems (phone books, task managers) using Python.  
     • Telegram bots and Python games.  
     • Development and management of databases using SQL (triggers, transactions, views).  
