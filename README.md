@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My experience as a doctor has allowed me to develop analytical thinking, attention to detail and the ability to solve critical tasks.  
 Realizing the growing importance of data in the modern world, I underwent professional retraining in Data Engineering, which allowed me to master modern technologies and data processing tools.  
 
-My education:
+My education:  
     1. Higher medical education.  
     2. Higher legal education.  
     3. Professional retraining in Data Engineering.  
