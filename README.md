@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nikolai Allenov. I'm a Data Engineer
+My name is Nikolai Allenov. I'm a Data Engineer with a unique combination of medical experience and deep knowledge in data processing. I specialize in ETL, Big Data, data orchestration and machine learning processes. I am looking for opportunities to apply my experience in projects with a real impact on the world, especially in the field of medicine and healthcare.
