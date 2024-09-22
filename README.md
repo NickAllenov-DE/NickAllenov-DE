@@ -22,7 +22,7 @@ Realizing the growing importance of data in the modern world, I underwent profes
 My education:  
     1. Higher medical education.  
     2. Higher legal education.  
-    3. Professional retraining in Data Engineering.  
+    3. Professional retraining in Data Analysis/Data Engineering.  
     
 During my training, I mastered tools such as Python, SQL, Docker, Apache Airflow, Apache Spark and many others, and also developed several projects, including:  
     • Data management systems (phone books, task managers) using Python.  
