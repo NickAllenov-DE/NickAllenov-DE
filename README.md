@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Nikolai Allenov, and I am a Data Engineer with a unique combination of rich experience in medicine and deep knowledge in the field of data processing.  
+### My name is Nikolai Allenov, and I am an Data Analyst / Data Engineer with a unique combination of rich experience in medicine and deep knowledge in the field of data processing.  
 My experience as a doctor has allowed me to develop analytical thinking, attention to detail and the ability to solve critical tasks.  
 Realizing the growing importance of data in the modern world, I underwent professional retraining in Data Engineering, which allowed me to master modern technologies and data processing tools.  
 
