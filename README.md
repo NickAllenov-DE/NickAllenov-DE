@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My name is Nikolai Allenov, and I am an ambitious and proactive Data Engineer with a unique combination of experience in medicine and deep expertise in data analysis, machine learning, and big data processing. My goal is to leverage technology to address global, socially significant challenges by creating innovations that transform business processes, optimize governmental systems, and benefit society.
+My medical background has instilled in me a strong sense of responsibility, attention to detail, and the ability to make well-informed decisions under uncertainty and time constraints. I have successfully applied these qualities to the field of data engineering, where I design scalable ETL processes, develop analytical systems, and implement machine learning models to solve complex challenges with maximum efficiency.
+I am convinced that data is the key to progress, and its proper utilization unlocks unlimited opportunities for society. Data can become a powerful tool for transforming public systems, improving the efficiency of healthcare, education, and science, and advancing other areas that directly impact people's quality of life.
+My mission is to create technological solutions that do more than just function—they inspire change and pave the way for sustainable development.
+With a solid foundation in medicine, legal training, and professional retraining in data engineering, I possess a unique skill set that enables me to approach challenges holistically and from diverse perspectives. I strive to offer unconventional solutions and achieve exceptional results.
+I am looking for projects that inspire, innovate, and truly make a difference in the world. My ultimate goal is not just to work with data but to create solutions that change the game, empower businesses and society, and improve people's lives.
+
 ### My name is Nikolai Allenov, and I am a Data Analyst / Data Engineer with a unique combination of rich experience in medicine and deep knowledge in the field of data processing and analysis.  
 My experience as a doctor has allowed me to develop analytical thinking, attention to detail and problem-solving abilities, which I now apply to the field of data.  
 Realizing the growing importance of data in the modern world, I underwent professional retraining in Data Engineering and Data Analysis, which allowed me to master modern technologies and data processing tools for working with large datasets.  
